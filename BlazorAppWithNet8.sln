@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAutoModeApp", "BlazorAutoModeApp\BlazorAutoModeApp\BlazorAutoModeApp.csproj", "{52C5B7E3-FF0B-467F-888B-E17D00E07A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAutoModeApp.Client", "BlazorAutoModeApp\BlazorAutoModeApp.Client\BlazorAutoModeApp.Client.csproj", "{51262E8E-4C4C-4C93-9C6B-ABC20733954F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C5B7E3-FF0B-467F-888B-E17D00E07A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C5B7E3-FF0B-467F-888B-E17D00E07A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C5B7E3-FF0B-467F-888B-E17D00E07A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C5B7E3-FF0B-467F-888B-E17D00E07A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51262E8E-4C4C-4C93-9C6B-ABC20733954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51262E8E-4C4C-4C93-9C6B-ABC20733954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51262E8E-4C4C-4C93-9C6B-ABC20733954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51262E8E-4C4C-4C93-9C6B-ABC20733954F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D126F1-449D-4D7C-837B-6B9CE6FDE992}
+	EndGlobalSection
+EndGlobal
